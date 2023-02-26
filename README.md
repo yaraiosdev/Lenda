@@ -33,5 +33,5 @@ e. In order to comply with applicable laws, regulations, or court orders.
 -Retention of User Data
 ##We will retain your user data for as long as necessary to provide you with the App’s services, to comply with legal obligations, or to resolve disputes.
 
-# Your Rights
+## Your Rights
 You have the right to request access
