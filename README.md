@@ -12,7 +12,7 @@ b. Information related to your request condition, including announce a medical e
 
 c. Information about your interactions with the App, such as what features you use and when you use them;
 
-## This information may be used to provide you services, improve the App’s functionality, and for research and development purposes.
+This information may be used to provide you services, improve the App’s functionality, and for research and development purposes.
 
 -Sharing of User Data
 ## We may share your user data with third parties in the following circumstances:
